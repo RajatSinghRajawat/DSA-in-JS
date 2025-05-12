@@ -147,3 +147,20 @@
 
 // console.log(amount);
 
+
+
+//  ternery condition
+
+// 112 > 3 ? console.log("gg") : console.log("hh")
+
+// // in short way in one console.log
+
+// console.log(112 > 3 ? "hello" : "hii")
+
+
+// // nested ternery condition 
+
+// let number = -1;
+
+// console.log(number > 0 ? "positive" : number < 0 ? "negative" : "zero");
+
